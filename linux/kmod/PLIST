@@ -1,0 +1,5 @@
+@comment $NetBSD$
+include/libkmod.h
+lib/libkmod.la
+lib/pkgconfig/libkmod.pc
+share/bash-completion/completions/kmod
